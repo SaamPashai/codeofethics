@@ -1,0 +1,66 @@
+#top h1{
+  text-align: center;
+  font-size: 50px;
+  padding-top: 2.8em;
+}
+
+#top{
+  background-color: rgb(150, 190, 224);
+  height: 18em;
+}
+
+.move{
+  margin-right: 10px;
+  color: whitesmoke;
+}
+
+.titleSpace{
+  padding-top: 1em;
+}
+
+.state{
+  margin-left :7em;
+  margin-bottom: 20px;
+}
+
+#sectionOne{
+  background-color: white;
+  height: 27em;
+}
+
+#sectionTwo{
+  background-color: orange;
+  height: 25em;
+  color: black;
+}
+
+#sectionThree{
+  background-color: white;
+  height: 28em;
+  color: black;
+}
+
+.center{
+  text-align: center;
+}
+
+#sectionOne h2{
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+
+#sectionTwo h2{
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+} 
+
