@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/codeofethics/static/css/main.26c3e5cd.chunk.css",
+    "main.js": "/codeofethics/static/js/main.ece529a8.chunk.js",
+    "main.js.map": "/codeofethics/static/js/main.ece529a8.chunk.js.map",
+    "runtime~main.js": "/codeofethics/static/js/runtime~main.36120a65.js",
+    "runtime~main.js.map": "/codeofethics/static/js/runtime~main.36120a65.js.map",
+    "static/css/2.266e55a5.chunk.css": "/codeofethics/static/css/2.266e55a5.chunk.css",
+    "static/js/2.073877ca.chunk.js": "/codeofethics/static/js/2.073877ca.chunk.js",
+    "static/js/2.073877ca.chunk.js.map": "/codeofethics/static/js/2.073877ca.chunk.js.map",
+    "index.html": "/codeofethics/index.html",
+    "precache-manifest.1eb2ae43a28740899f0c646b2135ed08.js": "/codeofethics/precache-manifest.1eb2ae43a28740899f0c646b2135ed08.js",
+    "service-worker.js": "/codeofethics/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/codeofethics/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.26c3e5cd.chunk.css.map": "/codeofethics/static/css/main.26c3e5cd.chunk.css.map"
+  }
+}
