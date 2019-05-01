@@ -44,12 +44,12 @@ class Navigation extends Component {
                             </NavItem>
                             <NavItem>
                                 <NavLink className = "move" smooth to="/#sectionOne">
-                                    One
+                                    Design Statement
                                 </NavLink>
                             </NavItem>
                             <NavItem>
                                 <NavLink className = "move" smooth to="/#sectionTwo">
-                                    Two
+                                    Design Principles
                                 </NavLink>
                             </NavItem>
                             <NavItem>

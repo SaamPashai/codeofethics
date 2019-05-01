@@ -37,7 +37,7 @@ class SectionOne extends Component {
                 <div id="sectionOne">
                     <header>
                         <div className="center">
-                            <h2 id="one" className="titleSpace">Section One</h2>
+                            <h2 id="one" className="titleSpace">Design Statement</h2>
                         </div>
                     </header>
                     <div>
@@ -61,10 +61,11 @@ class SectionTwo extends Component {
                 <div id="sectionTwo">
                     <header>
                         <div className="center">
-                            <h2 id="one" className="titleSpace">Section Two</h2>
+                            <h2 id="one" className="titleSpace">Design Principles</h2>
                         </div>
                     </header>
                     <div>
+                        <p className="state">Designers should:</p>
                         <ul>
                             <li className="state">Hold themselves accountable for the work they are releasing to the world.</li>
                             <li className="state">Value the impact of their design over the compensation.</li>
@@ -93,12 +94,17 @@ class SectionThree extends Component {
                     <div>
                         <p className="state">Please answer the following questions:</p>
                         <br></br>
-                        <p className="state">In the process flow of your design, could someone who is not familiar with your design, navigate, and achieve the desired goal?</p> 
-                        <p className="state">Is your design intended to help the user, or generate revenue? </p>
-                        <p className="state">Does your design allow your users to make their decisions freely?</p>
-                        <p className="state">Have you conducted any A/B testing or any other sort of research to verify that the design will help the user?</p>
-                        <p className="state">While designing are you constantly improving on your designs features? </p>
-                        <p className="state">Does this design improve the utility of your users or of you as a designer?</p>
+                        <p className="state">What is the user giving in this exchange? What is the solution giving to the user in this exchange?</p>
+                        <p className="state">Does the user know exactly what they are giving up?</p>
+                        <p className="state">Is this a fair exchange? Why?</p>
+                        <p className="state">In the process flow of your design, could someone who is not familiar with your design, navigate, and achieve the desired goal?</p>
+                        <p className="state">Complete basic flow diagrams for executing the core functions of your solution</p>
+                        <p className="state">In what ways is this design generating revenue?</p>
+                        <p className="state">Is this the best way to ensure a profit? List some alternative methods you have thought of.</p>
+                        <p className="state">What utility does this solution offer the user?</p>
+                        <p className="state">List this design’s potential stakeholders and how they benefit or how they are inhibited because of this design.</p>
+                        <p className="state">How is this solution different from other, pre existing solutions?</p>
+                        <p className="state">What are some features you plan on improving and how do you plan on improving them?</p>
                     </div>
                 </div>
             </div>
