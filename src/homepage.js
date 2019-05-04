@@ -8,6 +8,7 @@ class Homepage extends Component {
                 <SectionOne />
                 <SectionTwo />
                 <SectionThree />
+                <SectionFour />
             </div>
         );
     }
@@ -21,6 +22,7 @@ class Title extends Component {
                     <header>
                         <div>
                             <h1>Code of Ethics</h1>
+                            <p id="names">By Kevin Xu, Kunwar Singh, and Saam Pashai</p>
                         </div>
                     </header>
                 </div>
@@ -41,7 +43,7 @@ class SectionOne extends Component {
                         </div>
                     </header>
                     <div>
-                        <p className="state">Main Statement: “I swear to fulfill, to the best of my ability and judgment, this covenant:</p> 
+                        <p className="state main">Main Statement: “I swear to fulfill, to the best of my ability and judgment, this covenant:</p>
                         <p className="state">I will strive to design so that the target audience can achieve their goal seamlessly, keeping in mind of all users.</p>
                         <p className="state">I will not design for maximizing monetary profits and greed, but will keep in mind monetary gain is necessary to reinvest in the design, and create a better product for the user.</p>
                         <p className="state">I will design to give the users as much freedom as possible, without infringing upon the happiness of other users.</p>
@@ -65,7 +67,7 @@ class SectionTwo extends Component {
                         </div>
                     </header>
                     <div>
-                        <p className="state">Designers should:</p>
+                        <p className="state main">Designers should:</p>
                         <ul>
                             <li className="state">Hold themselves accountable for the work they are releasing to the world.</li>
                             <li className="state">Value the impact of their design over the compensation.</li>
@@ -92,20 +94,36 @@ class SectionThree extends Component {
                         </div>
                     </header>
                     <div>
-                        <p className="state">Please answer the following questions:</p>
+                        <p className="exp">This activity is designed to help you think critically about the details of your design. You will asked to analyze the decisions you have made as well as their impact on your users and stakeholders. </p>
+                        <p className="main">Please answer the following questions:</p>
                         <br></br>
-                        <p className="state">What is the user giving in this exchange? What is the solution giving to the user in this exchange?</p>
-                        <p className="state">Does the user know exactly what they are giving up?</p>
-                        <p className="state">Is this a fair exchange? Why?</p>
-                        <p className="state">In the process flow of your design, could someone who is not familiar with your design, navigate, and achieve the desired goal?</p>
-                        <p className="state">Complete basic flow diagrams for executing the core functions of your solution</p>
-                        <p className="state">In what ways is this design generating revenue?</p>
-                        <p className="state">Is this the best way to ensure a profit? List some alternative methods you have thought of.</p>
-                        <p className="state">What utility does this solution offer the user?</p>
-                        <p className="state">List this design’s potential stakeholders and how they benefit or how they are inhibited because of this design.</p>
-                        <p className="state">How is this solution different from other, pre existing solutions?</p>
-                        <p className="state">What are some features you plan on improving and how do you plan on improving them?</p>
+                        <p className="q">What is the user giving in this exchange? What is the solution giving to the user in this exchange?</p>
+                        <p className="sub">Does the user know exactly what they are giving up?</p>
+                        <p className="sub">Is this a fair exchange? Why?</p>
+                        <p className="q">In the process flow of your design, could someone who is not familiar with your design, navigate, and achieve the desired goal?</p>
+                        <p className="sub">Complete basic flow diagrams for executing the core functions of your solution</p>
+                        <p className="q">In what ways is this design generating revenue?</p>
+                        <p className="sub">Is this the best way to ensure a profit? List some alternative methods you have thought of.</p>
+                        <p className="sub">List this design’s potential stakeholders and how they benefit or how they are inhibited because of this design.</p>
+                        <p className="q">How is this solution different from other, pre existing solutions?</p>
+                        <p className="sub">What are some features you plan on improving and how do you plan on improving them?</p>
                     </div>
+                </div>
+            </div>
+        );
+    }
+}
+
+
+class SectionFour extends Component {
+    render() {
+        return (
+            <div>
+                <div id="sectionFour">
+                    <h1>Thank you</h1>
+                    <p className="end">
+                        This website was created using React.js. We hope you learnt a lot about our code of ethics and that you had fun working through our activity!
+                </p>
                 </div>
             </div>
         );

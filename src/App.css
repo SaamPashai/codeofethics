@@ -4,9 +4,26 @@
   padding-top: 2.8em;
 }
 
+#sectionFour h1{
+  text-align: center;
+  padding-top: 40px;
+}
+
+
 #top{
-  background-color: rgb(150, 190, 224);
+  background-color: black;
+  color: aliceblue;
   height: 18em;
+}
+
+.end{
+  text-align: center;
+  font-size: 20px;
+}
+
+.main{
+  font-size: 25px;
+  margin-left :4.5em;
 }
 
 .move{
@@ -14,13 +31,41 @@
   color: whitesmoke;
 }
 
+#names{
+  text-align: center;
+}
+
 .titleSpace{
   padding-top: 1em;
 }
 
+.q{
+  margin-left :5.5em;
+  margin-bottom: 15px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
 .state{
-  margin-left :7em;
-  margin-bottom: 20px;
+  margin-left :5.5em;
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+
+
+.exp{
+  margin-left :5.5em;
+  margin-bottom: 15px;
+  font-size: 20px;
+  margin-right: 20em;
+}
+
+
+.sub{
+  margin-left :14em;
+  margin-bottom: 15px;
+  font-size: 15px;
 }
 
 #sectionOne{
@@ -29,14 +74,20 @@
 }
 
 #sectionTwo{
-  background-color: orange;
-  height: 25em;
+  background-color: #ffd27f;
+  height: 30em;
   color: black;
+}
+
+#sectionFour{
+  background-color: black;
+  height: 12em;
+  color: white;
 }
 
 #sectionThree{
   background-color: white;
-  height: 28em;
+  height: 42em;
   color: black;
 }
 
@@ -47,12 +98,25 @@
 #sectionOne h2{
   font-size: 2em;
   margin-bottom: 1em;
+  text-decoration: underline;
 }
+
 
 #sectionTwo h2{
   font-size: 2em;
   margin-bottom: 1em;
+  text-decoration: underline;
 }
+
+#sectionThree h2{
+  text-align: left;
+  margin-left :3.5em;
+}
+
+
+/* div{
+  font-family: Arial, Helvetica, sans-serif;
+} */
 
 * {
   margin: 0;
