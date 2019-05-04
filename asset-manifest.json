@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/codeofethics/static/css/main.81588af1.chunk.css",
-    "main.js": "/codeofethics/static/js/main.1498e020.chunk.js",
-    "main.js.map": "/codeofethics/static/js/main.1498e020.chunk.js.map",
+    "main.css": "/codeofethics/static/css/main.dfc59ba0.chunk.css",
+    "main.js": "/codeofethics/static/js/main.284de07f.chunk.js",
+    "main.js.map": "/codeofethics/static/js/main.284de07f.chunk.js.map",
     "runtime~main.js": "/codeofethics/static/js/runtime~main.36120a65.js",
     "runtime~main.js.map": "/codeofethics/static/js/runtime~main.36120a65.js.map",
     "static/css/2.266e55a5.chunk.css": "/codeofethics/static/css/2.266e55a5.chunk.css",
     "static/js/2.073877ca.chunk.js": "/codeofethics/static/js/2.073877ca.chunk.js",
     "static/js/2.073877ca.chunk.js.map": "/codeofethics/static/js/2.073877ca.chunk.js.map",
     "index.html": "/codeofethics/index.html",
-    "precache-manifest.264577976d8eab8b559b121a7193d0ed.js": "/codeofethics/precache-manifest.264577976d8eab8b559b121a7193d0ed.js",
+    "precache-manifest.cc11fc515a9cc8f63cbf89f51fc62abe.js": "/codeofethics/precache-manifest.cc11fc515a9cc8f63cbf89f51fc62abe.js",
     "service-worker.js": "/codeofethics/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/codeofethics/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.81588af1.chunk.css.map": "/codeofethics/static/css/main.81588af1.chunk.css.map"
+    "static/css/main.dfc59ba0.chunk.css.map": "/codeofethics/static/css/main.dfc59ba0.chunk.css.map"
   }
 }
