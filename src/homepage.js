@@ -69,12 +69,11 @@ class SectionTwo extends Component {
                     <div>
                         <p className="state main">Designers should:</p>
                         <ul>
-                            <li className="state">Hold themselves accountable for the work they are releasing to the world.</li>
-                            <li className="state">Value the impact of their design over the compensation.</li>
-                            <li className="state">Aim to convenience the lives of their audience over exploiting them for extra money. </li>
-                            <li className="state">Always look to improve on a design, knowing that there is always something that can improve.</li>
-                            <li className="state">Understands who their users are and will try to appeal to their targeted individuals as much as possible to maximize the individuals’ utility.</li>
-                            <li className="state">Users are to be free to making their own decision, and there must not be any coercion to manipulate the user into making any decisions.</li>
+                            <li className="state">Hold themselves accountable for the work they are releasing to the world, and understand that the design provides an exchange of goods between the users and the design itself. There should be no intention to unfairly balance this exchange. Designers should also aim to resolve ills that come from any usages of the design.</li>
+                            <li className="state">Value the impact of their design over compensation. Designers should not see their user base as a means to make money, but understand that a sustainable profit is sometimes necessary. In these cases, designers should attempt to sacrifice as little as possible from the user experience for the sake of profit. </li>
+                            <li className="state">Always look to improve on a design, knowing that there is always something that can improve. Designers should look to multiple metrics and respond to user feedback to make design changes.</li>
+                            <li className="state">Understand who their users are and try to maximize the users’ utility as much as possible. Designers also will not create a design that purposely alienates a user group.</li>
+                            <li className="state">Give the users freedom to make their own decisions, and there must not be any coercion to manipulate the user into making any decisions without their knowledge and consent. Users should be able to use the design for any desired purpose, but the design itself should imply and encourage a specific purpose and utility.</li>
                         </ul>
                     </div>
                 </div>
